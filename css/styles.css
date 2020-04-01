@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background: url("/bg.jpg");
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 100px;
+}
+#body {
+  text-align: center;
+  margin-top: 100px;
+}
+button {
+  margin-top: 40px;
+  height: 35px;
+  width: 80px;
+}
+#author {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.button {
+  text-align: center;
+}
+#footer {
+  align-items: center;
+  text-align: center;
+}
+ul li {
+  text-decoration: none;
+}
+ul {
+  padding-top: 100px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
